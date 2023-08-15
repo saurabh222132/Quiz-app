@@ -4,7 +4,7 @@ import { createContext } from 'react'
 const QuizContext = createContext();
 
 const quizzes = [
-    {
+    { 
         "question": "Virtual Keyboards protect the computer against?",
         "a": "Password theft",
         "b": "Trojan programs",
